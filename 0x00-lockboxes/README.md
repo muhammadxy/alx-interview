@@ -3,11 +3,7 @@ Specializations > Interview Preparation > Algorithms
 
 ---
 
-### Project author
-Carrie Ybay
 
-### Assignment dates
-12-07-2020 to 12-11-2020
 
 ### Description
 Practice interview question not appearing elsewhere in the curriculum. Logic puzzle matching Python lists with their contents.
@@ -36,5 +32,4 @@ File(s): [`0-lockboxes.py`](./0-lockboxes.py)
 
 ---
 
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
+
