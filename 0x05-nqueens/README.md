@@ -3,11 +3,10 @@ Specializations > Interview Preparation > Algorithms
 
 ---
 
-### Project author
-Alexa Orrico (source project by Guillaume Salva)
 
-### Assignment dates
-03-15-2021 to 03-19-2021
+
+
+
 
 ### Description
 Practice interview question originally appearing as task [11. N queens](https://github.com/allelomorph/holbertonschool-higher_level_programming/blob/master/0x08-python-more_classes/101-nqueens.py) in [(250) 0x08. Python - More Classes and Objects](https://github.com/allelomorph/holbertonschool-higher_level_programming/tree/master/0x08-python-more_classes).
@@ -36,5 +35,4 @@ File(s): [`0-nqueens.py`](./0-nqueens.py)
 
 ---
 
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
+
