@@ -1,14 +1,7 @@
-# (470) 0x0F. Star Wars API
+# Star Wars API
 Specializations > Interview Preparation > Algorithms
 
 ---
-
-### Project author
-Alexa Orrico (source project by Alexandre Gautier)
-
-### Assignment dates
-04-05-2021 to 04-09-2021
-
 ### Description
 Practice interview question not appearing elsewhere in the curriculum, but similar to tasks in [(300) 0x11. Python - Network #1](https://github.com/allelomorph/holbertonschool-higher_level_programming/tree/master/0x11-python-network_1) and [(305) 0x15. JavaScript - Web jQuery](https://github.com/allelomorph/holbertonschool-higher_level_programming/tree/master/0x15-javascript-web_jquery). Query the Star Wars API to get all characters appearing in a given film.
 
@@ -47,5 +40,3 @@ File(s): [`0-starwars_characters.js`](./0-starwars_characters.js)
 
 ---
 
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
