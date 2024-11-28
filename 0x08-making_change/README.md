@@ -3,11 +3,6 @@ Specializations > Interview Preparation > Algorithms
 
 ---
 
-### Project author
-Carrie Ybay
-
-### Assignment dates
-06-21-2021 to 06-25-2021
 
 ### Description
 Practice interview question not appearing elsewhere in the curriculum. Logic puzzle determining what is the minimum number of coins, given an arbitrary set of denominations, that is needed to equal a target value.
@@ -35,5 +30,3 @@ File(s): [`0-making_change.py`](./0-making_change.py)
 
 ---
 
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
