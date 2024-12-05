@@ -1,21 +1,4 @@
-# (496) 0x1C. Island Perimeter
-Specializations > Interview Preparation > Algorithms
 
----
-
-### Project author
-Alexa Orrico (source project by Julien Barbier)
-
-### Assignment dates
-07-12-2021 to 07-16-2021
-
-### Description
-Practice interview question originally appearing as task [5. Island Perimeter](https://github.com/allelomorph/holbertonschool-low_level_programming/blob/master/0x1C-makefiles/5-island_perimeter.py) in [(273) 0x1C. C - Makefiles](https://github.com/allelomorph/holbertonschool-low_level_programming/tree/master/0x1C-makefiles).
-
-### Provided file(s)
-* [`0-main.py`](./0-main.py)
-
----
 
 ## Mandatory Tasks
 
@@ -36,5 +19,3 @@ File(s): [`0-island_perimeter.py`](./0-island_perimeter.py)
 
 ---
 
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
