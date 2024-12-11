@@ -3,11 +3,6 @@ Specializations > Interview Preparation > Algorithms
 
 ---
 
-### Project author
-Carrie Ybay
-
-### Assignment dates
-08-23-2021 to 08-27-2021
 
 ### Description
 Practice interview question not appearing elsewhere in the curriculum. Simulating a game between two players where prime numbers and their multiples are removed from a list.
@@ -58,5 +53,3 @@ File(s): [`0-prime_game.py`](./0-prime_game.py)
 
 ---
 
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
